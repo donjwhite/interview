@@ -1,0 +1,11 @@
+/.gradle
+/.idea
+/build
+out
+*.iml
+
+Debug/
+x64/
+.vs/
+*.db
+*.opendb
